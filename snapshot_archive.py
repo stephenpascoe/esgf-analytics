@@ -1,5 +1,11 @@
 #!/usr/bin/env python
-"""
+# BSD Licence
+# Copyright (c) 2013, Science & Technology Facilities Council (STFC)
+# All rights reserved.
+#
+# See the LICENSE file in the source distribution of this software for
+# the full license text.
+
 Crawl the SOLr indexes to get all dataset documents for a particular project
 and extract enough information to create a snapshot of the current state.  
 
